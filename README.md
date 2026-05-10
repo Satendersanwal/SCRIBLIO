@@ -1,7 +1,7 @@
 #  Scriblio - AI-Powered Collaborative Whiteboard
 
 ![License](https://img.shields.io/badge/License-MIT-green)
-![Stars](https://img.shields.io/github/stars/suwubh/Scriblio?style=social)
+![Stars](https://img.shields.io/github/stars/Satendersanwal/SCRIBLIO?style=social)
 ![Tech](https://img.shields.io/badge/Tech-React%20%7C%20TypeScript%20%7C%20Vite%20%7C%20Yjs-blue)
 
 A real-time collaborative whiteboard that combines **CRDT technology**, **AI assistance**, and a seamless **multiplayer experience** for teams to brainstorm, sketch, and create together.
@@ -374,9 +374,9 @@ Built with amazing open-source technologies:
 
 ##  Support & Contact
 
--  **Issues:** [GitHub Issues](https://github.com/suwubh/Scriblio/issues)
--  **Discussions:** [GitHub Discussions](https://github.com/suwubh/Scriblio/discussions)
--  **Email:** [subhankarsatpathy69@gmail.com](mailto:subhankarsatpathy69@gmail.com)
+-  **Issues:** [GitHub Issues](https://github.com/Satendersanwal/SCRIBLIO/issues)
+-  **Discussions:** [GitHub Discussions](https://github.com/Satendersanwal/SCRIBLIO/discussions)
+-  **Email:** [satendersanwal15@gmail.com](mailto:satendersanwal15@gmail.com)
 
 ---
 
@@ -384,6 +384,6 @@ Built with amazing open-source technologies:
 
 **⭐ Star this repo if you find it useful!**
 
-Made with  by [suwubh](https://github.com/suwubh)
+Made with  by [Satender_Sanwal](https://github.com/Satendersanwal)
 
 </div>
