@@ -375,7 +375,6 @@ Built with amazing open-source technologies:
 ##  Support & Contact
 
 -  **Issues:** [GitHub Issues](https://github.com/Satendersanwal/SCRIBLIO/issues)
--  **Discussions:** [GitHub Discussions](https://github.com/Satendersanwal/SCRIBLIO/discussions)
 -  **Email:** [satendersanwal15@gmail.com](mailto:satendersanwal15@gmail.com)
 
 ---
